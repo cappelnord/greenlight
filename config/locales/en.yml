@@ -260,8 +260,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "Teachers of University of Music Karlsruhe can register an account here to start video conferences. Your account will be approved after a short while. Students don't need to register. They can join the video conferences with an invitation link of the teachers."
+    welcome: Welcome to BigBlueButton on conf.hfm.eu.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.

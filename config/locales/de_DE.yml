@@ -259,9 +259,9 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "Dozenten der HfM Karlsruhe können hier einen Benutzeraccount anlegen um Videokonferenzen zu erstellen. Sie werden nach kurzer Zeit freigeschalten. Studierende brauchen sich nicht zu registrieren. Sie nehmen an den Konferenzen über die Einladungs-Links der Dozenten teil."
+    welcome: Willkommen zu BigBlueButton auf conf.hfm.eu.
+    video: Eine Anleitung zur Verwendung von Greenlight finden sie hier.
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
