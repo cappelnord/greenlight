@@ -261,8 +261,8 @@ en:
       start: Start searching...
   landing:
     about: "Teachers of University of Music Karlsruhe can register an account here to start video conferences. Your account will be approved after a short while. Students don't need to register. They can join the video conferences with an invitation link of the teachers."
-    welcome: Welcome to BigBlueButton on conf.hfm.eu.
-    video: Watch our tutorial on using Greenlight
+    welcome: Welcome to BigBlueButton on conf.hfm.eu
+    video: Tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
