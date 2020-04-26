@@ -260,7 +260,7 @@ de_DE:
       start: Beginne die Suche...
   landing:
     about: "Dozenten der HfM Karlsruhe können hier einen Benutzeraccount anlegen um Videokonferenzen zu erstellen. Sie werden nach kurzer Zeit freigeschalten. Studierende brauchen sich nicht zu registrieren. Sie nehmen an den Konferenzen über die Einladungs-Links der Dozenten teil."
-    welcome: Willkommen zum BigBlueButton auf conf.hfm.eu
+    welcome: Willkommen zu BigBlueButton auf conf.hfm.eu
     video: Anleitung zur Verwendung von Greenlight
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
