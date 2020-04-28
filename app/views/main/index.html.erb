@@ -16,14 +16,24 @@
 <div class="background">
   <div class="container pt-9 pb-8">
     <div class="row">
+      <div class="col-md-4 col-sm-4">
+        <img src="/b/hfm.png" alt="HfM Karlsruhe" style="height: 100%" />
+      </div>
+      <div class="col-md-8 col-sm-12">
+        <h1 id="main-text" class="display-4 mb-4"> <%= t("landing.welcome_hfm").html_safe %><br />conf.hfm.eu</h1>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-12 col-sm-12 text-center">
-        <h1 id="main-text" class="display-4 mb-4"> <%= t("landing.welcome").html_safe %></h1>
-        <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about", href: link_to(t("greenlight"), "https://bigbluebutton.org/2018/07/09/greenlight-2-0/", target: "_blank", rel: "noopener")).html_safe %></p>
+        <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about_hfm_1").html_safe %></p>
+        <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about_hfm_2").html_safe %></p>
+        <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about_hfm_3").html_safe %></p>
+        <!-- 
         <%= link_to "https://youtu.be/Hso8yLzkqj8", target: "_blank" do %>
           <h4><%= t("landing.video") %> <i class="far fa-play-circle ml-1"></i></h4>
         <% end %>
+        -->
       </div>
-
     </div>
   </div>
 </div>
