@@ -260,11 +260,11 @@ en:
     search:
       start: Start searching...
   landing:
-    about_og_hfm: Der Videokonferenz- und Online-Lehre-Dienst der HfM Karlsruhe
-    welcome_hfm: Willkommen zu BigBlueButton auf
-    about_hfm_1: Dozenten der <strong>Hochschule für Musik Karlsruhe</strong> können hier einen Benutzeraccount einrichten, um den Dienst BigBlueButton für Videokonferenzen und Online-Unterricht zu nutzen.
-    about_hfm_2: Nach ihrer Registrierung wird ihr Account freigeschaltet und Sie können BBB als Initiator nutzen.
-    about_hfm_3: Studierende brauchen sich <strong>nicht</strong> zu registrieren. Sie nehmen an den Konferenzen über Einladungs-Links (versendete URLs) teil.
+    about_og_hfm: conf.hfm.eu &ndash; The video conference and online teaching service of University of Music Karlsruhe
+    welcome_hfm: Welcome to BigBlueButton on
+    about_hfm_1: Teachers of <strong>University of Music Karlsruhe</strong> can register an account here to use the service <a href="https://bigbluebutton.org/">BigBlueButton</a> for video conferences and online teaching.
+    about_hfm_2: After your registration your account will be activated and you can use BBB to initiate conferences.
+    about_hfm_3: Students <strong>do not</strong> require to register. They join the conferences via invitation link.
     # about: "Teachers of University of Music Karlsruhe can register an account here to start video conferences. Your account will be approved after a short while. Students don't need to register. They can join the video conferences with an invitation link of the teachers."
     #welcome: Welcome to BigBlueButton on conf.hfm.eu
     #video: Tutorial on using Greenlight

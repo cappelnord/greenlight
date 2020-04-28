@@ -261,8 +261,8 @@ de_DE:
   landing:
     about_og_hfm: conf.hfm.eu &ndash; Der Videokonferenz- und Online-Unterricht-Dienst der HfM Karlsruhe
     welcome_hfm: Willkommen zu BigBlueButton auf
-    about_hfm_1: Dozenten der <strong>Hochschule für Musik Karlsruhe</strong> können hier einen Benutzeraccount einrichten, um den Dienst BigBlueButton für Videokonferenzen und Online-Unterricht zu nutzen.
-    about_hfm_2: Nach ihrer Registrierung wird ihr Account freigeschaltet und Sie können BBB als Initiator nutzen.
+    about_hfm_1: Dozenten der <strong>Hochschule für Musik Karlsruhe</strong> können hier einen Benutzeraccount einrichten, um den Dienst <a href="https://bigbluebutton.org/">BigBlueButton</a> für Videokonferenzen und Online-Unterricht zu nutzen.
+    about_hfm_2: Nach ihrer Registrierung wird Ihr Account freigeschaltet und sie können BBB als Initiator nutzen.
     about_hfm_3: Studierende brauchen sich <strong>nicht</strong> zu registrieren. Sie nehmen an den Konferenzen über Einladungs-Links (versendete URLs) teil.
     # about: "Dozenten der HfM Karlsruhe können hier einen Benutzeraccount anlegen um Videokonferenzen zu erstellen. Sie werden nach kurzer Zeit freigeschalten. Studierende brauchen sich nicht zu registrieren. Sie nehmen an den Konferenzen über die Einladungs-Links der Dozenten teil."
     # welcome: Willkommen zu BigBlueButton auf conf.hfm.eu
