@@ -260,7 +260,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about_og_hfm: conf.hfm.eu &ndash; The video conference and online teaching service of University of Music Karlsruhe
+    about_og_hfm: conf.hfm.eu – The video conference and online teaching service of University of Music Karlsruhe
     welcome_hfm: Welcome to BigBlueButton on
     about_hfm_1: Teachers of <strong>University of Music Karlsruhe</strong> can register an account here to use the service <a href="https://bigbluebutton.org/">BigBlueButton</a> for video conferences and online teaching.
     about_hfm_2: After your registration your account will be activated and you can use BBB to initiate conferences.
